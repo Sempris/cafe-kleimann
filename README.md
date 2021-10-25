@@ -6,7 +6,7 @@ The main purpose of the project was to create a new design for [cafe-kleimann.de
 
 This is an unsalaried project made in the close cooperation with the owner of the Cafe.
 
-Used technologies:
+Technologies:
 
 - HTML and pure CSS;
 - Bootstrap;
